@@ -8,12 +8,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>This is new file</title>
+    <title>This is Services file</title>
 </head>
 <body>
 
 <h1>
-  This is services jsp file
+  This is services jsp file edited to initate a JENKINS BUILD.
 </h1>
 
 </body>
